@@ -12,7 +12,7 @@ This Python script is designed to perform a Distributed Denial of Service (DDoS)
 
 ## Requirements
 
-- Python 3.11
+- Python 3.11+
 - `requests` library
 - `fake_useragent` library
 
@@ -24,6 +24,9 @@ pip install requests fake_useragent
 ```bash
 python cfddos.py
 ```
+
+Also click to use in replit
+<p align="left"><a href="https://replit.com/@omicr0n/cfbypass-ddos"><img src="https://skillicons.dev/icons?i=replit"></a></p>
 
 ![Kali](https://github.com/omicr0nn/cfbypass-for-ddos/blob/main/cfddos.png)
 
