@@ -25,7 +25,7 @@ pip install requests fake_useragent
 python cfddos.py
 ```
 
-![Kali]()
+![Kali](https://github.com/omicr0nn/cfbypass-for-ddos/blob/main/cfddos.png)
 
 Caution
 This script is for educational purposes only. Unauthorized use of this script may violate laws and result in legal consequences. Use it responsibly and only on systems you have explicit permission to test.
