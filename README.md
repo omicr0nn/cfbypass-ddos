@@ -19,6 +19,10 @@ This Python script is designed to perform a Distributed Denial of Service (DDoS)
 ## How to Install Dependencies
 
 ```bash
+git clone https://github.com/omicr0nn/cfbypass-ddos
+cd cfbypass-ddos
+```
+```bash
 pip install requests fake_useragent
 ```
 ```bash
