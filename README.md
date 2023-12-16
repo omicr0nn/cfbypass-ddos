@@ -23,7 +23,7 @@ git clone https://github.com/omicr0nn/cfbypass-ddos
 cd cfbypass-ddos
 ```
 ```bash
-pip install requests fake_useragent
+pip install -r requirements.txt
 ```
 ```bash
 python cfddos.py
