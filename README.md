@@ -42,3 +42,11 @@ The script includes a Cloudflare bypass mechanism to enhance its effectiveness a
 
 Liability Disclaimer
 The author is not responsible for any misuse or damage caused by this script. Use it at your own risk. By using this script, you accept full responsibility for any consequences that may arise.
+
+
+# With ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/omicr0n) 
+####
+[![](https://visitcount.itsvg.in/api?id=omicr0nn&icon=3&color=0)](https://visitcount.itsvg.in)
