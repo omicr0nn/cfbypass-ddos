@@ -13,7 +13,7 @@ This Python script is designed to perform a Distributed Denial of Service (DDoS)
 ## Requirements
 
 - Python 3.11+
-- `requests` library
+- `aiohttp` library
 - `fake_useragent` library
 
 ## How to Install Dependencies
